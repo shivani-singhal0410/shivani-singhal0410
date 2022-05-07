@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+##### I am Shivani!
+I am a data scientist with a decade of experience in data understanding, cleaning and processing, model designing and evaluation. 
+
+
+
+
+- 🔭 I’m currently applying to jobs in Data Science, Machine Learning and Data Analytics. If you are looking for a hardworking team member, look no further!
+- 🌱 I’m currently pursuing Microsoft Azure Data Science Associate certification.
+- 📫 How to reach me: https://www.linkedin.com/in/shivani-singhal-807a371a/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to travel and explore new places.
+
+
 <!--
 **shivani-singhal0410/shivani-singhal0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
