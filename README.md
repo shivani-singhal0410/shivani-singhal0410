@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ##### I am Shivani!
-I am a data scientist with a decade of experience in data understanding, cleaning and processing, model designing and evaluation. 
+I am a data scientist with more than a decade of experience in data understanding, cleaning and processing, model designing and evaluation. 
 
 
 
 
 - 🔭 I’m currently applying to jobs in Data Science, Machine Learning and Data Analytics. If you are looking for a hardworking team member, look no further!
-- 🌱 I’m currently pursuing Microsoft Azure Data Science Associate certification.
+- 🌱 I’m currently working with Accenture as full stack senior developer.
 - 📫 How to reach me: https://www.linkedin.com/in/shivani-singhal-807a371a/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel and explore new places.
