@@ -7,7 +7,7 @@ I am a data scientist with more than a decade of experience in data understandin
 
 
 - 🔭 I’m currently applying to jobs in Data Science, Machine Learning and Data Analytics. If you are looking for a hardworking team member, look no further!
-- 🌱 I’m currently working with Accenture as full stack senior developer.
+- 🌱 I’m currently working with Accenture as Gen AI Full Stack Senior Developer.
 - 📫 How to reach me: https://www.linkedin.com/in/shivani-singhal-807a371a/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel and explore new places.
